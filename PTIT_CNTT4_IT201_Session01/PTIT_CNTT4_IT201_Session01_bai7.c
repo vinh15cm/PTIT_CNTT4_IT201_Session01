@@ -21,3 +21,6 @@ else
 printf("cach 1 (for) :khong co trung lap \n");
 return 0;
 }
+// bước 1 : tạo ra mảng phụ để kiểm tra phần tử trùng lặp
+//B2 : xet từng phần tử
+// B3: kiểm tra xem từng phần tử
